@@ -1,0 +1,5 @@
+Git= Repositório local
+
+Git hub= Repositório remoto
+
+parei no versionamento de projetos antigos
